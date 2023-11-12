@@ -1,4 +1,6 @@
-# csis252
- Example code for csis252
+# CSIS 252 Code
 
-The code in the examples subdirectory was written and used by Dr. Brekke when he taught CSIS 252. He deserves all the credit for that.
+Example code for CSIS 252
+
+The code in the examples subdirectory was written and used by Dr. Brekke when he taught 
+CSIS 252. He deserves all the credit for the original code.
